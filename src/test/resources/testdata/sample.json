@@ -1,0 +1,6 @@
+{
+	"name": "json",
+	"value": "A12345",
+	"type": "simpleJson",
+	"requirement": "testing"
+}

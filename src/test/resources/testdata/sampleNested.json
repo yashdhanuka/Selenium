@@ -1,0 +1,26 @@
+{
+	"formId": "UP",
+	"userId": "1",
+	"attributes": [
+				{
+					"name": "auditProbability",
+					"value": 0.0,
+					"type": "Double"
+				},
+				{
+					"name1": "cptCode",
+					"value1": "70553",
+					"type1": "String"
+				},
+				{
+					"name2": "episodeId",
+					"value2": "A12345",
+					"type2": "String"
+				},
+				{
+					"name3": "falsePositiveRate",
+					"value3": "0.10",
+					"type3": "Double"
+				}
+			]
+	}
